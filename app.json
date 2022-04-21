@@ -1,7 +1,7 @@
 {
-    "name": "PINKY BY AFNAN PLK", 
-    "description": "pinky bot - re-edited from asena. World’s first UserBot made for WhatsApp.",
-    "logo": "https://i.imgur.com/zdcqaaG.jpeg",
+    "name": "SUSHILANV3 BY AEXD×A4EDITS", 
+    "description": "sushilanv3 bot - re-edited from asena. World’s first UserBot made for WhatsApp.",
+    "logo": "https://i.imgur.com/AbfyTEH.png",
     "keywords": ["whatsapp", "userbot", "Asena", "WhatsAsena", "bot", "api", "ai"],
     "repository": "https://github.com/A4edits/sushilanv3",
     "website":   "under maintenance",
@@ -9,7 +9,7 @@
     "stack": "container",
     "env": {
         "PINKY_SESSION": {
-            "description": " Type here yours pinky Session.",
+            "description": " Type here yours aexd Session.",
             "required": true
         },
         "SUDO": {
@@ -98,7 +98,7 @@
          "BOT_NAME": {
             "description": "heading for .list command reply",
             "required": false,
-            "value": "•━━━╼⤏PINKY BOT⤎╾━━━•"
+            "value": "•━━━╼⤏SUSHILAN V3⤎╾━━━•"
         },      
         "HEROKU_API_KEY": {
             "description": " Heroku API Key.",
@@ -154,7 +154,7 @@
         "ALIVE_MESSAGE": {
             "description": "Customizable Alive Message! use {pp} if you want to add profile picture also add {qt} if you want to add qoutes in your welcome message",
             "required": false,
-            "value": "i am alive  \n\n ```coded by afnan pallikkel```\n\n```{qt}```"
+            "value": "i am alive  \n\n ```coded by aexd aliser```\n\n```{qt}```"
         },
         "BAN_MESSAGE": {
             "description": "Customizable kick Message! Use => default, to change back.",
