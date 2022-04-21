@@ -1,4 +1,4 @@
-/* codded by afnanplk
+/* codded by aexd×A4edits
 */
 
 const { Sequelize } = require('sequelize');
@@ -14,5 +14,5 @@ module.exports = {
  PLKAFN: process.env.BAD_WORDS === undefined ? false : process.env.BAD_WORDS,
  PHONE: process.env.NUMBER === undefined ? '+918301985859' : process.env.NUMBER,   
  OA_NAME: process.env.DEPLOYER === undefined ? 'Someone' : process.env.DEPLOYER, 
- CODDED_BY: "afnanplk",    
+ CODDED_BY: "aexd",    
 };
