@@ -58,7 +58,7 @@ the user is responsible.
 
   ### Simple Method
   
-[![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@afnanplk/PinkyMwol-QR)
+[![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@A4edits/sushilan?v=1)
  
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://gist.github.com/A4edits/e02b08d79a2bf96ae62b2df62e930597)   
  
